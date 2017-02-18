@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "93288637655",
+    "project_id": "benedict-cumberbatch-generator"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93288637655:android:8b7185dc1f582659",
+        "android_client_info": {
+          "package_name": "m2wapps.ar.benedictcumberbatchnamegenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi-B7I5nrdtdszCO8P5G8KSm3jecb6DIw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-70298705-4"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
